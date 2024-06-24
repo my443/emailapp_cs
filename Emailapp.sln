@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emailapp", "Emailapp\Emailapp.csproj", "{B1AE31F2-CBF9-4842-BE43-CC2362A70A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emailapp", "Emailapp\Emailapp.csproj", "{B1AE31F2-CBF9-4842-BE43-CC2362A70A11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{F973DC5D-CF2B-4D34-A0C1-2956CC4BC9AF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\Email.drawio = ..\..\..\Documents\Email.drawio
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
